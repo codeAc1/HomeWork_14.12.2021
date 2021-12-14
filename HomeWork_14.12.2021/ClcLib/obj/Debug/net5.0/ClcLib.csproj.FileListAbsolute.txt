@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\bin\Debug\net5.0\ClcLib.deps.json
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\bin\Debug\net5.0\ClcLib.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\bin\Debug\net5.0\ref\ClcLib.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\bin\Debug\net5.0\ClcLib.pdb
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\obj\Debug\net5.0\ClcLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\obj\Debug\net5.0\ClcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\obj\Debug\net5.0\ClcLib.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\obj\Debug\net5.0\ClcLib.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\obj\Debug\net5.0\ClcLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\obj\Debug\net5.0\ClcLib.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\obj\Debug\net5.0\ref\ClcLib.dll
+C:\Users\Admin\Desktop\Kurs\Tapsiriqlar\14.12.2021\HomeWork_14.12.2021\ClcLib\obj\Debug\net5.0\ClcLib.pdb

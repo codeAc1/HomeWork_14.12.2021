@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HomeWork_14.12.2021/1.0.0": {
+        "dependencies": {
+          "ClcLib": "1.0.0"
+        },
+        "runtime": {
+          "HomeWork_14.12.2021.dll": {}
+        }
+      },
+      "ClcLib/1.0.0": {
+        "runtime": {
+          "ClcLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWork_14.12.2021/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClcLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
